@@ -25,7 +25,7 @@ const Footer = () => {
         <footer className="bg-white py-8 border-t border-gray-100">
             <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24 flex flex-col md:flex-row justify-between items-center gap-4">
                 <p className="text-sm text-gray-500">
-                    © {new Date().getFullYear()} Your Name. All rights reserved.
+                    © {new Date().getFullYear()} Rushikesh Nandkumar Powar. All rights reserved.
                 </p>
 
                 <div className="flex items-center gap-6">
@@ -48,3 +48,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
