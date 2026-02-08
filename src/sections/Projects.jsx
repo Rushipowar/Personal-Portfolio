@@ -18,7 +18,7 @@ const projects = [
         ],
         tech: ["React", "Nano Banana AI", "Supabase", "Tailwind"],
         github: "https://github.com/Rushipowar/ComicCraftAi",
-        live: "#"
+        live: "https://comic-craft-ai-baxt.vercel.app/"
     },
     {
         title: "NovaWave",
@@ -34,7 +34,7 @@ const projects = [
         ],
         tech: ["React", "Supabase", "AI", "Tailwind"],
         github: "https://github.com/Rushipowar/NovaWave",
-        live: "#"
+        live: "https://nova-wave-bx9r.vercel.app/"
     }
 ];
 
@@ -111,3 +111,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
