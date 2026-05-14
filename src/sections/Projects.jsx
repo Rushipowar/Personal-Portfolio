@@ -34,7 +34,7 @@ const projects = [
         ],
         tech: ["React", "Supabase", "AI", "Tailwind"],
         github: "https://github.com/Rushipowar/NovaWave",
-        live: "https://nova-wave-bx9r.vercel.app/"
+        live: "https://nova-wave-ai.vercel.app/"
     }
 ];
 
